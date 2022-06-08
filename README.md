@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I love doing gymnastics and I love animals. I also have 2 guinea pigs.
+
+In Computer Science this summer I want to learn how to code. This is important to me because it will help me get a better job and just make my life easier in general.
+
+![guinea pig](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zMNnLBXYBxyrJ4OEAT_80tdGanFdCBeNfA&usqp=CAU)
